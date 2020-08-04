@@ -1,0 +1,62 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1519395612667-3b754d7b9086?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
+    background-size: cover;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+hr {
+    border-color: black;
+}
+
+.jumbotron {
+    background-image: url(https://images.unsplash.com/photo-1524856781660-e5c92f4ac62a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
+    background-size: cover;
+    color: #eff0da;
+    
+}
+
+.well {
+    background-color: #e6d593;
+    border: 1px solid black;
+}
+
+.welcome {
+    text-shadow: 2px 2px 2px black;
+}
+.navbar {
+    background-color: #a3c2a3;
+    border: 1px solid black;
+}
+
+.navbar-nav {
+    padding-top: 3px;
+    font-size: 1.25em;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+    background-color: #a3c2a3;
+    border: 1px solid black;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form {
+    display: inline;
+}
+
+.form {
+    text-align: center;
+}
+
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
